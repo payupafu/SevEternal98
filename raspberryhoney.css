@@ -1,0 +1,21 @@
+body{
+background:url("images/notes.gif");
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+.post {
+   
+    color:#380567;
+    padding:10px;
+    margin-bottom: 10px;
+    background: url("images/bouquet.gif");
+    width:800px;
+    border-style: groove;
+
+};
+#posttitle{
+    padding:20px;
+    background-color:white;
+}
+
+
+}

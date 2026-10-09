@@ -1,0 +1,16 @@
+body{
+background:url(images/mystery.gif);
+display: flex;
+justify-content: center;
+align-items: center;
+
+div{
+    background-color:black;
+    color:red;
+    border-style:solid;
+    padding:20px;
+}
+
+
+
+}
