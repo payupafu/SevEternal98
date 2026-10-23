@@ -1,0 +1,13 @@
+ body{
+background:url(images/warp.gif);
+display: flex;
+justify-content: center;
+align-items: center;
+
+div{
+background-color:white;
+padding:20px;
+border-style:dotted;
+border-color:white;
+};
+ }
