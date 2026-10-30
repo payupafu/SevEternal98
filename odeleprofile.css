@@ -1,0 +1,27 @@
+body{
+background:url("images/notes.gif");
+color:whitesmoke;
+
+.post {
+    padding:20px;
+    margin-bottom: 20px;
+    background: url("images/hydgrangea.jpg");
+    table, td, tr{
+    background: url("images/clover.gif");
+    border-style: groove;
+    border-width:2px;
+    border-color:white;
+    font-size: larger;}
+   
+    font-weight: bolder
+};
+#HomeTitle{
+    color:blue;
+    background: url("images/heart.gif");
+}
+.highlight{
+    color: rgb(143, 164, 255);
+    font-style: italic;
+    text-decoration: underline;
+}
+}

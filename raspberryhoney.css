@@ -1,24 +1,60 @@
 body{
-background:url("images/notes.gif");
+background:url("images/tree.png");
 font-family:Georgia, 'Times New Roman', Times, serif;
-display:flex;
 flex-direction:column;
+display: flex;
 align-items:center;
+#HomeTitle{
+    color:#380567;
+    padding:20px;
+    margin-bottom: 20px;
+    background: url("images/paper.gif");
+    background-size: 110%;
+    background-position: -20px;
+    width:1200px;
+    border-style: dotted;
+    border-width:5px;
+    border-color:white;
+
+}
 .post {
     
     color:#380567;
     padding:20px;
     margin-bottom: 20px;
     background: url("images/bouquet.gif");
-    max-width:900px;
+    width:1200px;
     border-style: dotted;
     border-width:5px;
     border-color:white;
 };
 #posttitle{
     padding:20px;
-    background-color:white;
+    background-color: aliceblue;
 }
-
+#label{
+    background-image: url('images/flower.gif');
+    max-width: 100px;
+    padding-left: 5px;
+    border-style:double;
+    border-color:white;
+    color: #380567;
+    margin-bottom:20px;
+};
+#images{
+    text-align: center;
+};
+table, td, tr{
+  h4{
+    margin-left:10px;
+  }
+}
+.date{
+    color:#a978d6;
+    white-space: pre;
+}
+.comment{
+  margin-top: -10px;
+}
 
 }
