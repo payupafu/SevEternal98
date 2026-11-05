@@ -17,7 +17,7 @@ body {
 .container{
     gap:10px;
     margin-left: 20px;
-    max-width: auto;
+    max-width: 1000px;
     max-height: auto;
 
 }
@@ -56,6 +56,10 @@ body {
 #posttitle{
     padding:20px;
     background: url('images/fractal.jpg');
+    
+}
+a{
+  color:red;
 }
 .ui{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

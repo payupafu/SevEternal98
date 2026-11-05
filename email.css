@@ -46,8 +46,16 @@ display: grid;
 
 }
 
-
+.reply{
+    margin-top: 10px;
+    margin-left:30px;
+    color:rgb(136, 140, 255);
+    border-top-style:solid;
+    border-width: 1px;
+    border-color: rgb(136, 140, 255);
+}
 .container div.content{
+    overflow:scroll;
     grid-area: content;
     background-color: aliceblue;
     padding:10px;

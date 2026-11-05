@@ -1,6 +1,9 @@
 body{
 background-color:rgb(58, 58, 58);
 font-family:Arial, Helvetica, sans-serif;
+body.chat2{
+    background-image: url("images/warp.gif");
+}
 
 #chatbox{
     margin-top: 30px;

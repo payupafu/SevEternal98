@@ -14,12 +14,14 @@ body {
   width:400px;
   margin-bottom: 15px;
 }
+
+a{
+  color:red;}
 .container{
-    display:grid;
-    grid-template-columns: auto auto;
+    
     gap:10px;
     margin-left: 20px;
-    max-width: auto;
+    max-width: 1000px;
     max-height: auto;
 
 }
