@@ -1,5 +1,5 @@
 body {
-  background: url("100_FUJI/pole.JPG");
+  background: url("100_FUJI/pole.jpg");
   background-size: 70%;
   flex-direction:column;
   hr { background-color: white; height: 3px; border: 2px; }
