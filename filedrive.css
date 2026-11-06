@@ -3,5 +3,15 @@ table, td, tr{
     padding:10px;
     align-items:center;
 }
-
+#letter{
+    border: solid;
+    border-color: black;
+    width:600px;
+    height:800px;
+    p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;}
+}
 }
